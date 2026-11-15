@@ -1,0 +1,6 @@
+{
+  "name": "KindPrompt",
+  "description": "An AI prompt agent that crafts and sends positive prompts to Gemini with live streamed responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
